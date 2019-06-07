@@ -5,9 +5,9 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: LOFFER
+name: 山山道年年
 # 描述/签名
-description: 一个可以fork的博客
+description: Stevie, Bucky, Stucky
 
 #
 # 下面的设定都是可选的
@@ -22,13 +22,13 @@ favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/fav
 
 # 菜单中的按钮
 navigation:
-  - name: 首页
+  - name: 首頁
     url: /
-  - name: 关于
+  - name: 文集
     url: /about
-  - name: 归档
+  - name: 收藏
     url: /archive
-  - name: 标签
+  - name: 其他
     url: /tags
 
 # 每页的文章数
